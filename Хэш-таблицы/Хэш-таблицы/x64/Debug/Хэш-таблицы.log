@@ -1,0 +1,3 @@
+﻿  Хэш-таблицы.cpp
+C:\Users\Nastya\Desktop\с++\Хэш-таблицы\Хэш-таблицы\Хэш-таблицы.cpp(207,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Хэш-таблицы.vcxproj -> C:\Users\Nastya\Desktop\с++\Хэш-таблицы\x64\Debug\Хэш-таблицы.exe
