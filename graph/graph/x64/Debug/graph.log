@@ -1,0 +1,9 @@
+﻿  graph.cpp
+C:\Users\Nastya\Desktop\графы\graph\graph\graph.cpp(49,25): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Nastya\Desktop\графы\graph\graph\graph.cpp(155,15): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Nastya\Desktop\графы\graph\graph\graph.cpp(170,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Nastya\Desktop\графы\graph\graph\graph.cpp(208,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Nastya\Desktop\графы\graph\graph\graph.cpp(231,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Nastya\Desktop\графы\graph\graph\graph.cpp(442,12): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\Nastya\Desktop\графы\graph\graph\graph.cpp(443,12): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  graph.vcxproj -> C:\Users\Nastya\Desktop\графы\graph\x64\Debug\graph.exe
